@@ -1,1 +1,4 @@
-print("hello world"
+print("hello world")
+variable=a
+copo=b
+
